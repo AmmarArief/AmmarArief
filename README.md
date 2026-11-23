@@ -34,16 +34,6 @@
   <img src="https://img.shields.io/badge/macOS-121215?style=for-the-badge&logo=apple&logoColor=EA580C" alt="macOS" />
 </p>
 
-<h3>🏗️ Selected Work</h3>
-
-| Project | What it is | Built with |
-|---|---|---|
-| [marfolio](https://github.com/AmmarArief/marfolio) | Personal portfolio that works like a small application — live at [ammararief.my.id](https://ammararief.my.id) | TypeScript, Next.js, Cloudflare Workers |
-| [everything-rust](https://github.com/AmmarArief/everything-rust) | Rewrite an app in Rust one piece at a time, checked against the original's recorded behaviour | Rust |
-| [Delisert.mks](https://github.com/AmmarArief/Delisert.mks) | Catalogue and WhatsApp ordering site for a homemade dessert business in Makassar | TanStack Start, Cloudflare D1 + R2 |
-| [agent-terminals](https://github.com/AmmarArief/agent-terminals) | Supervise any Herdr tab from an AI agent session — read, prompt, wait | JavaScript |
-| [ports-on](https://github.com/AmmarArief/ports-on) | Native macOS menu bar app to see and stop listening TCP ports | Swift, SwiftUI |
-
 <h3>🟠 Activity</h3>
 
 <table align="center">
@@ -54,8 +44,11 @@
     <td width="2%"></td>
     <td width="49%" valign="top">
       <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarArief&layout=compact&langs_count=8&hide_border=true&bg_color=09090B&title_color=EA580C&text_color=A1A1AA&custom_title=Languages" alt="Top languages" />
-      <br/>
-      <img width="100%" src="https://streak-stats.demolab.com?user=AmmarArief&theme=dark&hide_border=true&background=09090B&ring=EA580C&fire=EA580C&currStreakLabel=EA580C&sideNums=EA580C&currStreakNum=EA580C&dates=A1A1AA&sideLabels=A1A1AA&card_height=250" alt="GitHub streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+      <img width="62%" src="https://streak-stats.demolab.com?user=AmmarArief&theme=dark&hide_border=true&background=09090B&ring=EA580C&fire=EA580C&currStreakLabel=EA580C&sideNums=EA580C&currStreakNum=EA580C&dates=A1A1AA&sideLabels=A1A1AA" alt="GitHub streak" />
     </td>
   </tr>
 </table>
