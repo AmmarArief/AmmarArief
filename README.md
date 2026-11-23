@@ -9,7 +9,7 @@
 - 💼 Web development intern at UIN Alauddin Makassar (Dec 2025 – Mar 2026), building site features with a team
 - 🧩 Building [MarHerdr](https://github.com/AmmarArief/marherdr), [MarFolio](https://github.com/AmmarArief/mar-portfolio), and [Delisert.mks](https://github.com/AmmarArief/Delisert.mks) — full case notes on [ammararief.my.id](https://ammararief.my.id)
 - 🛠️ Daily stack: TypeScript, React and Next.js on the front; Node.js, tRPC and Cloudflare Workers behind it; MySQL, PostgreSQL, Turso and D1 for storage
-- 📫 Reach me at [marmdhn28@gmail.com](mailto:marmdhn28@gmail.com) or through [ammararief.my.id](https://ammararief.my.id)
+- 📫 Reach me at [ammarariefgalib@gmail.com](mailto:marmdhn28@gmail.com) or through [ammararief.my.id](https://ammararief.my.id)
 
 
 <h3>🧰 Tech Garden</h3>
