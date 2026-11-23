@@ -25,11 +25,11 @@
 </p>
 
 <p align="center"><b>Backend</b><br/>
-  <img src="https://img.shields.io/badge/Node.js-0F120E?style=for-the-badge&logo=nodedotjs&logoColor=8EA06D" alt="Node.js" /> <img src="https://img.shields.io/badge/NextAuth.js-0F120E?style=for-the-badge&logo=auth0&logoColor=8EA06D" alt="NextAuth.js" /> <img src="https://img.shields.io/badge/tRPC-0F120E?style=for-the-badge&logo=trpc&logoColor=8EA06D" alt="tRPC" />
+  <img src="https://img.shields.io/badge/Node.js-0F120E?style=for-the-badge&logo=nodedotjs&logoColor=8EA06D" alt="Node.js" /> <img src="https://img.shields.io/badge/NextAuth.js-0F120E?style=for-the-badge" alt="NextAuth.js" /> <img src="https://img.shields.io/badge/tRPC-0F120E?style=for-the-badge&logo=trpc&logoColor=8EA06D" alt="tRPC" />
 </p>
 
 <p align="center"><b>Database</b><br/>
-  <img src="https://img.shields.io/badge/MySQL-0F120E?style=for-the-badge&logo=mysql&logoColor=8EA06D" alt="MySQL" /> <img src="https://img.shields.io/badge/PostgreSQL-0F120E?style=for-the-badge&logo=postgresql&logoColor=8EA06D" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Supabase-0F120E?style=for-the-badge&logo=supabase&logoColor=8EA06D" alt="Supabase" /> <img src="https://img.shields.io/badge/Turso-0F120E?style=for-the-badge&logo=turso&logoColor=8EA06D" alt="Turso" /> <img src="https://img.shields.io/badge/Upstash-0F120E?style=for-the-badge&logo=upstash&logoColor=8EA06D" alt="Upstash" /> <img src="https://img.shields.io/badge/Neon-0F120E?style=for-the-badge&logo=postgresql&logoColor=8EA06D" alt="Neon" /> <img src="https://img.shields.io/badge/Cloudflare_D1-0F120E?style=for-the-badge&logo=cloudflare&logoColor=8EA06D" alt="Cloudflare D1" />
+  <img src="https://img.shields.io/badge/MySQL-0F120E?style=for-the-badge&logo=mysql&logoColor=8EA06D" alt="MySQL" /> <img src="https://img.shields.io/badge/PostgreSQL-0F120E?style=for-the-badge&logo=postgresql&logoColor=8EA06D" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Supabase-0F120E?style=for-the-badge&logo=supabase&logoColor=8EA06D" alt="Supabase" /> <img src="https://img.shields.io/badge/Turso-0F120E?style=for-the-badge&logo=turso&logoColor=8EA06D" alt="Turso" /> <img src="https://img.shields.io/badge/Upstash-0F120E?style=for-the-badge&logo=upstash&logoColor=8EA06D" alt="Upstash" /> <img src="https://img.shields.io/badge/Neon-0F120E?style=for-the-badge" alt="Neon" /> <img src="https://img.shields.io/badge/Cloudflare_D1-0F120E?style=for-the-badge&logo=cloudflare&logoColor=8EA06D" alt="Cloudflare D1" />
 </p>
 
 <p align="center"><b>Backend Services</b><br/>
