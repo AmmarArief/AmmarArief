@@ -50,17 +50,10 @@
 
 <h3>🌿 Activity</h3>
 
-<table align="center">
-  <tr>
-    <td width="49%" valign="top">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=AmmarArief&show_icons=true&hide_border=true&bg_color=0F120E&title_color=8EA06D&icon_color=8EA06D&text_color=9BA88C&custom_title=Commit%20log" alt="GitHub stats" />
-    </td>
-    <td width="2%"></td>
-    <td width="49%" valign="top">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarArief&layout=compact&langs_count=8&hide_border=true&bg_color=0F120E&title_color=8EA06D&text_color=9BA88C&custom_title=Languages" alt="Top languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmmarArief&show_icons=true&hide_border=true&bg_color=0F120E&title_color=8EA06D&icon_color=8EA06D&text_color=9BA88C&custom_title=Commit%20log" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarArief&layout=compact&langs_count=8&hide_border=true&bg_color=0F120E&title_color=8EA06D&text_color=9BA88C&custom_title=Languages" alt="Top languages" />
+</p>
 
 <p align="center">
   <img width="62%" src="https://streak-stats.demolab.com?user=AmmarArief&theme=dark&hide_border=true&background=0F120E&ring=8EA06D&fire=8EA06D&currStreakLabel=8EA06D&sideNums=D2D8C2&currStreakNum=D2D8C2&dates=9BA88C&sideLabels=9BA88C" alt="GitHub streak" />
