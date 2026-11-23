@@ -4,13 +4,12 @@
 
 <h3>📚 About Me</h3>
 
-- 🎓 Information Technology student in Makassar, South Sulawesi — building web products rather than exercises
-- 🧑‍💻 Personal site is a working product, not a scrolling résumé: [ammararief.my.id](https://ammararief.my.id) — editorial layout, AI chat that answers from its own content, admin panel, Cloudflare Workers
-- 🦀 Writing Rust to rewrite apps one piece at a time, each step checked against the original's recorded behaviour ([everything-rust](https://github.com/AmmarArief/everything-rust))
-- 🛠️ Comfortable across the stack: TypeScript on the front, TanStack Start / Next.js and Cloudflare Workers behind it, Swift and Rust when the job needs a native binary
-- 🖥️ Builds tools for the machine I actually work on — terminal supervision for AI agents ([agent-terminals](https://github.com/AmmarArief/agent-terminals)), a macOS port viewer ([ports-on](https://github.com/AmmarArief/ports-on))
-- 🌱 Interested in product design, agent tooling, and local-first software; prefers small, boring, maintainable systems
-- 📫 Reach me through [ammararief.my.id](https://ammararief.my.id) or open an issue on any repo below
+- 🧑‍💻 Software engineer and web developer in Makassar, South Sulawesi — I build modern, interactive, reliable web products and turn ideas into working systems
+- 🎓 Information Technology student at Universitas Bosowa (2026–present), coming from Rekayasa Perangkat Lunak at SMK Telkom Makassar
+- 💼 Web development intern at UIN Alauddin Makassar (Dec 2025 – Mar 2026), building site features with a team
+- 🧩 Building [MarHerdr](https://github.com/AmmarArief/marherdr), [MarFolio](https://github.com/AmmarArief/mar-portfolio), and [Delisert.mks](https://github.com/AmmarArief/Delisert.mks) — full case notes on [ammararief.my.id](https://ammararief.my.id)
+- 🛠️ Daily stack: TypeScript, React and Next.js on the front; Node.js, tRPC and Cloudflare Workers behind it; MySQL, PostgreSQL, Turso and D1 for storage
+- 📫 Reach me at [marmdhn28@gmail.com](mailto:marmdhn28@gmail.com) or through [ammararief.my.id](https://ammararief.my.id)
 
 <br clear="right" />
 
@@ -27,12 +26,8 @@
 <h3>📊 Activity</h3>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmmarArief&show_icons=true&hide_border=true&bg_color=0F1414&title_color=77B0B7&icon_color=A9B672&text_color=93A79C&custom_title=Commit%20log&card_width=440" alt="GitHub stats" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarArief&layout=compact&langs_count=8&hide_border=true&bg_color=0F1414&title_color=D5E1C9&text_color=93A79C&custom_title=Languages&card_width=440" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img width="62%" src="https://streak-stats.demolab.com?user=AmmarArief&theme=dark&hide_border=true&background=0F1414&ring=A9B672&fire=A9B672&currStreakLabel=77B0B7&sideNums=D5E1C9&currStreakNum=D5E1C9&dates=93A79C&sideLabels=93A79C" alt="GitHub streak" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=AmmarArief&theme=dark&hide_border=true&background=0F1414&ring=A9B672&fire=A9B672&currStreakLabel=77B0B7&sideNums=D5E1C9&currStreakNum=D5E1C9&dates=93A79C&sideLabels=93A79C" alt="GitHub streak" />
 </p>
 
 <div align="center">
