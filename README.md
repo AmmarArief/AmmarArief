@@ -17,38 +17,38 @@
 <h3>🧰 Tech Garden</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-121215?style=for-the-badge&logo=typescript&logoColor=EA580C" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-121215?style=for-the-badge&logo=javascript&logoColor=EA580C" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Rust-121215?style=for-the-badge&logo=rust&logoColor=EA580C" alt="Rust" />
-  <img src="https://img.shields.io/badge/Swift-121215?style=for-the-badge&logo=swift&logoColor=EA580C" alt="Swift" />
-  <img src="https://img.shields.io/badge/Shell-121215?style=for-the-badge&logo=gnubash&logoColor=EA580C" alt="Shell" />
-  <img src="https://img.shields.io/badge/React-121215?style=for-the-badge&logo=react&logoColor=EA580C" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-121215?style=for-the-badge&logo=nextdotjs&logoColor=EA580C" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TanStack_Start-121215?style=for-the-badge&logo=reactquery&logoColor=EA580C" alt="TanStack Start" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-121215?style=for-the-badge&logo=tailwindcss&logoColor=EA580C" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Node.js-121215?style=for-the-badge&logo=nodedotjs&logoColor=EA580C" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Cloudflare_Workers-121215?style=for-the-badge&logo=cloudflareworkers&logoColor=EA580C" alt="Cloudflare Workers" />
-  <img src="https://img.shields.io/badge/Cloudflare_D1-121215?style=for-the-badge&logo=cloudflare&logoColor=EA580C" alt="Cloudflare D1" />
-  <img src="https://img.shields.io/badge/SQLite-121215?style=for-the-badge&logo=sqlite&logoColor=EA580C" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Git-121215?style=for-the-badge&logo=git&logoColor=EA580C" alt="Git" />
-  <img src="https://img.shields.io/badge/macOS-121215?style=for-the-badge&logo=apple&logoColor=EA580C" alt="macOS" />
+  <img src="https://img.shields.io/badge/TypeScript-0F120E?style=for-the-badge&logo=typescript&logoColor=8EA06D" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-0F120E?style=for-the-badge&logo=javascript&logoColor=8EA06D" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Rust-0F120E?style=for-the-badge&logo=rust&logoColor=8EA06D" alt="Rust" />
+  <img src="https://img.shields.io/badge/Swift-0F120E?style=for-the-badge&logo=swift&logoColor=8EA06D" alt="Swift" />
+  <img src="https://img.shields.io/badge/Shell-0F120E?style=for-the-badge&logo=gnubash&logoColor=8EA06D" alt="Shell" />
+  <img src="https://img.shields.io/badge/React-0F120E?style=for-the-badge&logo=react&logoColor=8EA06D" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-0F120E?style=for-the-badge&logo=nextdotjs&logoColor=8EA06D" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TanStack_Start-0F120E?style=for-the-badge&logo=reactquery&logoColor=8EA06D" alt="TanStack Start" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F120E?style=for-the-badge&logo=tailwindcss&logoColor=8EA06D" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-0F120E?style=for-the-badge&logo=nodedotjs&logoColor=8EA06D" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Cloudflare_Workers-0F120E?style=for-the-badge&logo=cloudflareworkers&logoColor=8EA06D" alt="Cloudflare Workers" />
+  <img src="https://img.shields.io/badge/Cloudflare_D1-0F120E?style=for-the-badge&logo=cloudflare&logoColor=8EA06D" alt="Cloudflare D1" />
+  <img src="https://img.shields.io/badge/SQLite-0F120E?style=for-the-badge&logo=sqlite&logoColor=8EA06D" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Git-0F120E?style=for-the-badge&logo=git&logoColor=8EA06D" alt="Git" />
+  <img src="https://img.shields.io/badge/macOS-0F120E?style=for-the-badge&logo=apple&logoColor=8EA06D" alt="macOS" />
 </p>
 
-<h3>🟠 Activity</h3>
+<h3>🌿 Activity</h3>
 
 <table align="center">
   <tr>
     <td width="49%" valign="top">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=AmmarArief&show_icons=true&hide_border=true&bg_color=09090B&title_color=EA580C&icon_color=EA580C&text_color=A1A1AA&custom_title=Commit%20log" alt="GitHub stats" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=AmmarArief&show_icons=true&hide_border=true&bg_color=0F120E&title_color=8EA06D&icon_color=8EA06D&text_color=9BA88C&custom_title=Commit%20log" alt="GitHub stats" />
     </td>
     <td width="2%"></td>
     <td width="49%" valign="top">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarArief&layout=compact&langs_count=8&hide_border=true&bg_color=09090B&title_color=EA580C&text_color=A1A1AA&custom_title=Languages" alt="Top languages" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarArief&layout=compact&langs_count=8&hide_border=true&bg_color=0F120E&title_color=8EA06D&text_color=9BA88C&custom_title=Languages" alt="Top languages" />
     </td>
   </tr>
   <tr>
     <td colspan="3" align="center">
-      <img width="62%" src="https://streak-stats.demolab.com?user=AmmarArief&theme=dark&hide_border=true&background=09090B&ring=EA580C&fire=EA580C&currStreakLabel=EA580C&sideNums=EA580C&currStreakNum=EA580C&dates=A1A1AA&sideLabels=A1A1AA" alt="GitHub streak" />
+      <img width="62%" src="https://streak-stats.demolab.com?user=AmmarArief&theme=dark&hide_border=true&background=0F120E&ring=8EA06D&fire=8EA06D&currStreakLabel=8EA06D&sideNums=8EA06D&currStreakNum=8EA06D&dates=9BA88C&sideLabels=9BA88C" alt="GitHub streak" />
     </td>
   </tr>
 </table>
