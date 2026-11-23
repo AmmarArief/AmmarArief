@@ -60,12 +60,11 @@
       <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarArief&layout=compact&langs_count=8&hide_border=true&bg_color=0F120E&title_color=8EA06D&text_color=9BA88C&custom_title=Languages" alt="Top languages" />
     </td>
   </tr>
-  <tr>
-    <td colspan="3" align="center">
-      <img width="62%" src="https://streak-stats.demolab.com?user=AmmarArief&theme=dark&hide_border=true&background=0F120E&ring=8EA06D&fire=8EA06D&currStreakLabel=8EA06D&sideNums=8EA06D&currStreakNum=8EA06D&dates=9BA88C&sideLabels=9BA88C" alt="GitHub streak" />
-    </td>
-  </tr>
 </table>
+
+<p align="center">
+  <img width="62%" src="https://streak-stats.demolab.com?user=AmmarArief&theme=dark&hide_border=true&background=0F120E&ring=8EA06D&fire=8EA06D&currStreakLabel=8EA06D&sideNums=D2D8C2&currStreakNum=D2D8C2&dates=9BA88C&sideLabels=9BA88C" alt="GitHub streak" />
+</p>
 
 <div align="center">
   <sub>Makassar, Indonesia · <a href="https://ammararief.my.id">ammararief.my.id</a></sub>
