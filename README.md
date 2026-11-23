@@ -51,8 +51,8 @@
 <h3>📊 Activity</h3>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmmarArief&show_icons=true&hide_border=true&bg_color=0F1414&title_color=77B0B7&icon_color=A9B672&text_color=93A79C&custom_title=Commit%20log" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarArief&layout=compact&langs_count=8&hide_border=true&bg_color=0F1414&title_color=D5E1C9&text_color=93A79C&custom_title=Languages" alt="Top languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmmarArief&show_icons=true&hide_border=true&bg_color=0F1414&title_color=77B0B7&icon_color=A9B672&text_color=93A79C&custom_title=Commit%20log&card_width=440" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarArief&layout=compact&langs_count=8&hide_border=true&bg_color=0F1414&title_color=D5E1C9&text_color=93A79C&custom_title=Languages&card_width=440" alt="Top languages" />
 </p>
 
 <p align="center">
