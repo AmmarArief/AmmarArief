@@ -11,7 +11,6 @@
 - 🛠️ Daily stack: TypeScript, React and Next.js on the front; Node.js, tRPC and Cloudflare Workers behind it; MySQL, PostgreSQL, Turso and D1 for storage
 - 📫 Reach me at [marmdhn28@gmail.com](mailto:marmdhn28@gmail.com) or through [ammararief.my.id](https://ammararief.my.id)
 
-<br clear="right" />
 
 <h3>🧰 Tech Garden</h3>
 
